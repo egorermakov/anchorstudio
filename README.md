@@ -1,1 +1,1 @@
-# egorermakov.github.io/anchorstudio
+# egorermakov.github.io/anchorstudio/
